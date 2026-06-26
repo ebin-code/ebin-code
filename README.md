@@ -14,7 +14,7 @@ Passionate DevOps Engineer with hands-on experience in building, automating, and
 - ⚙️ Configuration Management: Ansible
 - 📦 Version Control: Git & GitHub
 - 📊 Monitoring: Prometheus, Grafana
-- 🌐 Web Server: Nginx, Apache
+- 🌐 Web Server: Nginx, Apache , Tmcat
 - 🛢️ Databases: MySQL, SQL Server
 
 ### Currently Learning
