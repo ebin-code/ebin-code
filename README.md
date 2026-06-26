@@ -1,15 +1,6 @@
 <img width="1162" height="290" alt="image" src="https://github.com/user-attachments/assets/225c509c-7c96-4752-8be2-3d2cdf42a2c3" />
-
-EBIN KRISHNAN 
-
-Development Platform, Automation & MLOps Enthusiast
-
-DevOps · MLOps · IDP · AI Infrastructure · Platform Engineering
-
-Turning DevOps Complexity into Developer Simplicity
-
-LinkedIn GitHub Telegram Blog Portfolio Top Committer
-
+-------------------------------------------------------------------------------------------------------------
+                                      EBIN KRISHNAN 
 
 
 
