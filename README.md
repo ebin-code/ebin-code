@@ -179,11 +179,7 @@ Passionate DevOps Engineer with hands-on experience in AWS, Linux, Docker, Kuber
 
 </p>
 
-# Hi, I'm Ebin Krishnan 👋
 
-## DevOps | Cloud | Linux Engineer
-
-Passionate DevOps Engineer with hands-on experience in building, automating, and deploying cloud infrastructure using AWS and modern DevOps tools. I enjoy designing scalable CI/CD pipelines, managing containerized applications, and implementing Infrastructure as Code.
 
 ### Technical Skills
 
