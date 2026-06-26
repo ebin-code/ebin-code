@@ -147,37 +147,6 @@ Passionate DevOps Engineer with hands-on experience in AWS, Linux, Docker, Kuber
 
 ---
 
-<h2 align="center">📈 GitHub Stats</h2>
-
-<p align="center">
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170"
-src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&margin-w=10"/>
-
-</p>
-
----
-
 <h2 align="center">📫 Connect With Me</h2>
 
 <p align="center">
